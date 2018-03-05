@@ -1,0 +1,8 @@
+prefix=/home/anuragb/ros_prac/catkin_ws_p13/devel
+
+Name: project_4
+Description: Description of project_4
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/anuragb/ros_prac/catkin_ws_p13/devel/lib 
+Requires: 
